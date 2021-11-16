@@ -1,7 +1,7 @@
 ipywidgets
 pandas
 shapely
-geopands
+geopandas
 math
 holoviews
 geoviews
