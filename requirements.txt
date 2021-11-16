@@ -1,0 +1,12 @@
+ipywidgets
+python == 3.6
+pandas
+geos
+geopandas
+holoviews
+geoviews
+cartopy
+warnings
+bokeh
+matplotlib
+sklearn
