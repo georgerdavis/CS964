@@ -2,7 +2,6 @@ ipywidgets
 pandas
 shapely
 geopandas
-math
 holoviews
 geoviews
 cartopy
