@@ -1,7 +1,7 @@
 ipywidgets
-geos
+python = 3.6
 pandas
-shapely
+geos
 geopandas
 holoviews
 geoviews
