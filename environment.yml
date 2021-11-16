@@ -1,0 +1,13 @@
+name: C964
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.6
+  - geopandas-base
+  - jupyter
+  - holoviews
+  - geoviews
+  - geos
+  - geopandas
+  - ipywidgets
